@@ -1,0 +1,18 @@
+.container{
+    background-color: blanchedalmond;
+    display: inline-block;
+    width: 800px;
+    margin-left: calc((100% - 800px) / 2);
+}
+.window{ 
+    background-color: brown;
+    display: inline-block;
+    width: 25%;
+    margin-left: 300px;
+    border-radius: 10px;
+}
+.heading{
+    display: inline-block;
+padding: 20px;
+}
+.form{}
